@@ -3812,3 +3812,9 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	#project_header {
+		text-align: center;
+		position: relative;
+		top: 10px;
+	}
